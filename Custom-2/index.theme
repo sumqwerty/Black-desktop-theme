@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Custom-2
+Comment=A dark flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Custom-2
+MetacityTheme=Mint-Y-Dark
+IconTheme=Custom-2
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,close
