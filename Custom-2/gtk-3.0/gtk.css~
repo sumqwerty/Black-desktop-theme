@@ -154,7 +154,7 @@ entry {
     padding: 2px;
     color: #DADADA;
     border-color: #191919;
-    background-color: /*#2e63b2;*/ /* goa wall blue */  #202020;
+    background-color: #2e63b2; /* goa wall blue */  /*#404040;*/
     border: none;
     border-radius: 0; }
   entry:focus {
