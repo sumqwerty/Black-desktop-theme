@@ -2,6 +2,19 @@
 
 Dark Black theme for Cinnamon desktop environment.(with Nemo as file manager)
 
+# To add the theme system wide(Reccomanded).
+## Using Ternimal
+### 1. Download and extract the "Black-desktop-theme" folder(can be extracted to any location).
+
+### 2. Open a terminal window in the "Black-desktop-theme" directory and enter the following command in the terminal
+
+```
+$ sudo cp -r DeepBlack McOS-MJV-Cinnamon-Edition-2.0 /usr/share/themes
+```
+
+### 3. Now open the System Settings, navigate to the Theme configuration settings and change the "Window boders" and "Controls" properties.
+
+
 # To add the theme to your system for a single user.
 ## Using GUI
 ### 1. Download and extract the "Black-desktop-theme" folder(can be extracted to any location).
@@ -30,19 +43,6 @@ $ cp -r DeepBlack McOS-MJV-Cinnamon-Edition-2.0 ~/.themes
 
 ### 3. Now open the System Settings, navigate to the Theme configuration settings and change the "Window boders" and "Controls" properties.
 
-
-
-# To add the theme system wide.
-## Using Ternimal
-### 1. Download and extract the "Black-desktop-theme" folder(can be extracted to any location).
-
-### 2. Open a terminal window in the "Black-desktop-theme" directory and enter the following command in the terminal
-
-```
-$ sudo cp -r DeepBlack McOS-MJV-Cinnamon-Edition-2.0 /usr/share/themes
-```
-
-### 3. Now open the System Settings, navigate to the Theme configuration settings and change the "Window boders" and "Controls" properties.
 
 
 ## DEMO
